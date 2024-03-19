@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+.bg{
+    background-color: #102a3c;
+    padding: 20px 0px;
+    position: sticky;
+    top: 0;
+    z-index: 100; 
+}
+
+.link{
+    color: white !important;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-right: 40px;
+    font-weight: 400;
+    text-shadow: 1px 1px 1px white;
+}
+.link:hover{
+    color: #0e6dbb !important ;
+}
+
+.started{
+    background-color: #0e6dbb;
+    padding: 12px 24px;
+    font-size: 20px;
+}
+.started2{
+    background-color: #0e6dbb;
+    padding: 12px 24px;
+    font-size: 20px;
+    margin-left: 19px;
+}
+.started:hover{
+    color:#0e6dbb
+}
+.cover{
+    background-color:#102a3c ;
+    padding: 90px 0px;
+}
+.cover-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.subtitle{
+    font-weight: 600;
+    font-family: 'Rajdhani',sans-serif;
+}
+.title{
+    font-size: 65px;
+    font-weight: 700;
+    font-family: 'Rajdhani',sans-serif;
+}
+.description{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Rajdhani',sans-serif;
+}
+.link-cover{
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: 'Rajdhani',sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+    padding-bottom: 4px;
+}
+.about{
+    padding: 90px 0px;
+    background-color: #1a1f22;
+}
+.about-subtitle{
+    font-weight: 400;
+    font-size: 28px;
+    font-family: 'Rajdhani',sans-serif;
+}
+.about-title{
+    font-size:65px;
+    font-weight:700;
+    font-family: 'Rajdhani',sans-serif;
+    margin-top: 32px;
+}
+.about-desc{
+    font-size:16px;
+    margin-top: 16px;
+    font-family: 'Rajdhani',sans-serif;
+    color: #abc4cc;
+}
+.skills{
+    background-color: #102a3c;
+    padding: 50px 0px;
+}
+.section-subtitle{
+    font-family: 'Rajdhani',sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+}
+.section-title{
+    font-family: 'Rajdhani',sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 32px;
+}
+.progress-text{
+    font-size: 24px;
+    font-family: 'Rajdhani',sans-serif;
+}
+.portfolio{
+    background-color: #1a1f22;
+    padding: 80px 0px;
+}
+.github-icon1 {
+    width: 40px; 
+    height: auto; 
+    margin-top: 300px; 
+}
+.github-icon {
+    width: 40px; 
+    height: auto; 
+    margin-top: 5px; 
+    margin-left: 290px;
+}
+.github-icon2 {
+    width: 40px; 
+    height: auto; 
+    margin-top: 5px; 
+    margin-left: 20px;
+}
+.contact{
+    background-color: #1a1f22;
+    padding: 80px 0;
+}
+.contact-input{
+    background-color: #3b3e40;
+    
+}
